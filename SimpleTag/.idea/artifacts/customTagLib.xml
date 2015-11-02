@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="customTagLib">
+    <output-path>$PROJECT_DIR$/out/artifacts/customTagLib</output-path>
+    <root id="archive" name="customTagLib.jar">
+      <element id="module-output" name="SimpleTag" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/custom.tld" />
+      </element>
+    </root>
+  </artifact>
+</component>

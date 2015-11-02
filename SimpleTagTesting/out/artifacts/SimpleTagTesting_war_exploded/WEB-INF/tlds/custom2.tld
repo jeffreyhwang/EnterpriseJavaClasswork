@@ -1,0 +1,13 @@
+<taglib>
+    <tlib-version>1.0</tlib-version>
+    <jsp-version>2.0</jsp-version>
+    <short-name>Example TLD</short-name>
+    <tag>
+        <name>advHello</name>
+        <tag-class>enterprise.tags.AdvancedHelloTag</tag-class>
+        <body-content>empty</body-content>
+        <attribute>
+            <name>username</name>
+        </attribute>
+    </tag>
+</taglib>

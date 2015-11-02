@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="advHelloTag">
+    <output-path>$PROJECT_DIR$/out/artifacts/advHelloTag</output-path>
+    <root id="archive" name="advHelloTag.jar">
+      <element id="module-output" name="AdvancedTag" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/custom.tld" />
+      </element>
+    </root>
+  </artifact>
+</component>
